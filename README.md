@@ -6,7 +6,7 @@ This Python script allows you to download audio from YouTube videos and save the
 
 Before running the script, make sure you have the necessary dependencies installed. You can install them using the following:
 
-pip install pytube moviepy
+    pip install pytube moviepy
 
 ## How to Use
 
